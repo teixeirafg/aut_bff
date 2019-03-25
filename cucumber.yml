@@ -1,0 +1,30 @@
+# Template
+default: -p html_report -p json_report -p cb -p prd -p ios
+default_parallel: --format pretty -f html --out reports/parallel/report<%= ENV['TEST_ENV_NUMBER'] %>.html
+parallel_json: -f pretty -f json -o reports/parallel/report<%= ENV['TEST_ENV_NUMBER'] %>.json
+parallel:  --format pretty -f html --out reports/features_report.html
+wip: -p default -t @wip
+
+# Reports
+html_report: --format pretty -f html -o reports/features_report.html
+json_report: --format pretty -f json -o reports/features_report.json
+
+# Bandeiras
+cb: BANDEIRA=casasbahia -t 'not @ignoreCasasBahia'
+pf: BANDEIRA=pontofrio -t 'not @ignorePontoFrio'
+
+# Ambientes
+dev: AMBIENTE=dev -t 'not @ignoreDev'
+hlg: AMBIENTE=hlg -t 'not @ignoreHlg'
+prd: AMBIENTE=prd -t 'not @ignorePrd'
+stg: AMBIENTE=stg -t 'not @ignoreStage'
+
+# Ambientes locais
+stage: SERVIDOR=stage
+
+# Dispositivos
+ios: DISPOSITIVO=ios
+android: DISPOSITIVO=android
+
+# Debug console
+debug: DEBUG=true

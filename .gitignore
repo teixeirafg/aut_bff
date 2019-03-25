@@ -1,0 +1,13 @@
+*.html
+debug.log
+/Gemfile.lock
+/.idea/
+/.idea
+\.idea
+*.json
+/reports/*.json
+automation_log.log
+/reports/*.txt
+reports/evidences/*
+/reports/evidences/*
+/code_analyzer

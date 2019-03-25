@@ -1,0 +1,35 @@
+casasbahia:
+  dev:
+    departamento: 'TODO:'
+    conteudos: 'TODO:'
+    login: 'TODO:'
+    carrinho: 'TODO:'
+  stg:
+    departamento: 'TODO:'
+    conteudos: http://casasbahia.mobilehotfix.ocp.dc.nova/conteudos
+    login: 'TODO:'
+    carrinho: 'TODO:'
+  prd:
+    departamento: https://mobile-b2c.casasbahia.com.br
+    conteudos: https://mobile-b2c.casasbahia.com.br/conteudos
+    login:  https://mobile-b2c.casasbahia.com.br
+    carrinho: https://mobile-b2c.casasbahia.com.br
+
+pontofrio:
+  dev:
+    departamento: 'TODO:'
+    conteudos: 'TODO:'
+    login: 'TODO:'
+    carrinho: 'TODO:'
+
+  stg:
+    departamento: 'TODO:'
+    conteudos: http://pontofrio.mobilehotfix.ocp.dc.nova/conteudos
+    login: 'TODO:'
+    carrinho: 'TODO:'
+
+  prd:
+    departamento: https://mobile-b2c.pontofrio.com.br
+    conteudos: https://mobile-b2c.pontofrio.com.br/conteudos
+    login: https://mobile-b2c.pontofrio.com.br
+    carrinho: https://mobile-b2c.pontofrio.com.br

@@ -1,0 +1,7 @@
+departamento: /departamentos
+banners: /banners
+token: /token
+captcha: /captcha
+carrinho: /carrinho
+produto: /carrinho/produto
+quantidade: /carrinho/produtos/quantidade

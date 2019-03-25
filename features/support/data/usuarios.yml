@@ -1,0 +1,107 @@
+email_valido:
+  prd:
+    casasbahia: 
+      email: vv_qa_bot_980851@mailinator.com
+      senha: Varejo123
+    pontofrio:
+      email: vv_qa_bot_596281@mailinator.com
+      senha: Varejo123
+    extra:
+      email: 'TODO:'
+      senha: 'TODO:'
+    barateiro:
+      email: 'TODO:'
+      senha: 'TODO:'
+  stg:
+    casasbahia:
+      email: 'TODO:'
+      senha: 'TODO:'
+    pontofrio:
+      email: 'TODO:'
+      senha: 'TODO:'
+    extra:
+      email: 'TODO:'
+      senha: 'TODO:'
+    barateiro:
+      email: 'TODO:'
+      senha: 'TODO:'
+  hlg:
+    casasbahia:
+      email: 'TODO:'
+      senha: 'TODO:'
+    pontofrio:
+      email: 'TODO:'
+      senha: 'TODO:'
+    extra:
+      email: 'TODO:'
+      senha: 'TODO:'
+    barateiro:
+      email: 'TODO:'
+      senha: 'TODO:'
+  dev:
+    casasbahia:
+      email: 'TODO:'
+      senha: 'TODO:'
+    pontofrio:
+      email: 'TODO:'
+      senha: 'TODO:'
+    extra:
+      email: 'TODO:'
+      senha: 'TODO:'
+    barateiro:
+      email: 'TODO:'
+      senha: 'TODO:'
+
+email_invalido:
+  prd:
+    casasbahia: 
+      email: invalid_vv_qa_bot_980851@mailinator.com
+      senha: invalid_Varejo123
+    pontofrio:
+      email: invalid_vv_qa_bot_596281@mailinator.com
+      senha: invalid_Varejo123
+    extra:
+      email: 'TODO:'
+      senha: 'TODO:'
+    barateiro:
+      email: 'TODO:'
+      senha: 'TODO:'
+  stg:
+    casasbahia:
+      email: 'TODO:'
+      senha: 'TODO:'
+    pontofrio:
+      email: 'TODO:'
+      senha: 'TODO:'
+    extra:
+      email: 'TODO:'
+      senha: 'TODO:'
+    barateiro:
+      email: 'TODO:'
+      senha: 'TODO:'
+  hlg:
+    casasbahia:
+      email: 'TODO:'
+      senha: 'TODO:'
+    pontofrio:
+      email: 'TODO:'
+      senha: 'TODO:'
+    extra:
+      email: 'TODO:'
+      senha: 'TODO:'
+    barateiro:
+      email: 'TODO:'
+      senha: 'TODO:'
+  dev:
+    casasbahia:
+      email: 'TODO:'
+      senha: 'TODO:'
+    pontofrio:
+      email: 'TODO:'
+      senha: 'TODO:'
+    extra:
+      email: 'TODO:'
+      senha: 'TODO:'
+    barateiro:
+      email: 'TODO:'
+      senha: 'TODO:'

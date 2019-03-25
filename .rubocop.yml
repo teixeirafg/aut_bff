@@ -1,0 +1,23 @@
+Style/Documentation:
+  Enabled: false
+
+Naming/AccessorMethodName:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 135
+
+Style/GlobalVars:
+  Enabled: false
+
+Style/MutableConstant:
+  Enabled: false
+
+Metrics/MethodLength:
+  Max: 25
+
+Metrics/AbcSize:
+  Max: 40
+
+Style/MixinUsage:
+  Enabled: false

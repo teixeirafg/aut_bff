@@ -1,0 +1,41 @@
+produtos:
+  prd:
+    casasbahia:
+      lojista: 
+        id: 10037
+        nome: CasasBahia.com.br
+      
+      produto_1: 
+        nome: Console Xbox One X 1TB - Preto
+        sku: 11996668
+        marca: Xbox One
+      
+      produto_2: 
+        nome: iPhone XS Apple com 64GB, Tela Super Retina HD de 5,8”, iOS 12, Dupla Câmera Traseira, Resistente à Água e Reconhecimento Facial – Cinza-espacial
+        sku: 13950674
+        marca: Apple
+      
+      produto_3: 
+        nome: Smartphone Motorola Moto G7 Play Índigo XT1952 32GB, Tela de 5,7", 2GB de RAM, Dual Chip, Android 9.0, Câmera 13MP e Processador Octa-Core
+        sku: 14536925
+        marca: Motorola
+
+    pontofrio:
+      lojista: 
+        id: 16
+        nome: Pontofrio.com
+      
+      produto_1: 
+        nome: Smart TV LED 32" HD Samsung 32J4290 com Plataforma Tizen, Wide Color Enhancer Plus, Espelhamento de Tela, Wi-Fi, Dolby Digital Plus, HDMI e USB
+        sku: 13399991
+        marca: Samsung
+      
+      produto_2: 
+        nome: Fritadeira Elétrica Mondial Family Air Fryer NAF 03I - Preto e Inox 110V
+        sku: 12639587
+        marca: Mondial
+      
+      produto_3: 
+        nome: Forno Elétrico Philco Multifunção com 1500W de Potência – 46 Litros 110v
+        sku: 9110953
+        marca: Philco
